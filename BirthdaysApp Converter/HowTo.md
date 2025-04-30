@@ -9,20 +9,20 @@ Das ziel ist es :
 2. dieses script laufen zu lassen und das csv in ein ics file zu konvertieren
 3. ics file in einen online calender wie "Proton Calender" zu importieren
 
-
-# Proton Calender - ImportFlow 
-<a href="./Pics/Import_1_create_Cal.jpg" target="_blank">
-  <img src="./Pics/Import_1_create_Cal.jpg" width="150" />
-</a>
-<a href="./Pics/Import_2_Cal-File_ics.jpg" target="_blank">
-  <img src="./Pics/Import_2_Cal-File_ics.jpg" width="150" />
-</a>
-<a href="./Pics/Import_3_Progress.jpg" target="_blank">
-  <img src="./Pics/Import_3_Progress.jpg" width="150" />
-</a>
-<a href="./Pics/Import_4_Final_Result.jpg" target="_blank">
-  <img src="./Pics/Import_4_Final_Result.jpg" width="150" />
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="./Pics/Import_1_create_Cal.jpg" target="_blank">
+    <img src="./Pics/Import_1_create_Cal.jpg" width="150" />
+  </a>
+  <a href="./Pics/Import_2_Cal-File_ics.jpg" target="_blank">
+    <img src="./Pics/Import_2_Cal-File_ics.jpg" width="150" />
+  </a>
+  <a href="./Pics/Import_3_Progress.jpg" target="_blank">
+    <img src="./Pics/Import_3_Progress.jpg" width="150" />
+  </a>
+  <a href="./Pics/Import_4_Final_Result.jpg" target="_blank">
+    <img src="./Pics/Import_4_Final_Result.jpg" width="150" />
+  </a>
+</div>
 
 
 # Importent
